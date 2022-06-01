@@ -1,4 +1,4 @@
-# Handling Unit Testing for Asynchronous Code
+# Advanced Unit Testing Concepts
 
 <!-- #### Demo App is here: [User Auth Flow](https://user-auth-flow.web.app/) -->
 
@@ -11,10 +11,12 @@
 
 ## About <a name= "about"></a>
 
-Simple project to practice on Unit Testing for Asynchronous code:
+Simple project to practice on advanced Unit Testing Concepts:
 
-- Callbacks
-- Promises
+- Testing asynchronous code that uses Callbacks
+- Testing asynchronous code that uses Promises
+- Using Hooks (beforeAll - beforeEach - afterAll - afterEach)
+- Concurrent Testing
 
 ## Build Setup <a name="build_setup"></a>
 
